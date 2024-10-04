@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: ProductDatabase class
-// Author: Serdar Kemal Topkaya / Burak Eren Birinci
-// ID: 71200082370 / 36596076990
-// Section: 3
-// Assignment: 3
+// Author: Serdar Kemal Topkaya
 // Description: This class creates a binary search tree that name is ProductDatabese (BinarySearch).
 // Using the addProduct method, creates products and store it in search tree data 
 // structure. Using the searchProduct method, it traverses the three and find product.
