@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: CaptainNode class
-// Author: Serdar Kemal Topkaya / Burak Eren Birinci
-// ID: 71200082370 / 36596076990
-// Section: 3
-// Assignment: 3
+// Author: Serdar Kemal Topkaya
 // Description: This class creates the elements required for the Captains as Nodes of Binary
 // Tree. These Nodes represent captain's attributes. These Nodes will have their own 
 // id value, name value, available value, ratingStar value, right value and left value.
