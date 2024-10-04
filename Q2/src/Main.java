@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Main class
-// Author: Serdar Kemal Topkaya / Burak Eren Birinci
-// ID: 71200082370 / 36596076990
-// Section: 3
-// Assignment: 3
+// Author: Serdar Kemal Topkaya
 // Description: This class takes inputs from user as text files and 
 // using the String values in the text file, operates the code in seven situations
 // which are add captain, isAvailable, display captain, finish, delete captain,
