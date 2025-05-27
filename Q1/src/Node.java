@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: ProductNode class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: This class creates the elements required for the Products as Nodes of Binary
 // Tree. These Nodes represent product's attributes. These Nodes will have their own 
 // id value, name value, piece value, right value and left value. The data required for the Node
