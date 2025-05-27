@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: Main class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: This class takes inputs from user as text files and 
 // using the String values in the text file, operates the code in seven situations
 // which are add captain, isAvailable, display captain, finish, delete captain,
