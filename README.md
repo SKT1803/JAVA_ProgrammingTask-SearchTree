@@ -42,11 +42,13 @@ BST-Solutions
    ```bash
    git clone https://github.com/SKT1803/java-bst-projects.git
      cd java-bst-projects
-   
+   ```
    Navigate to each question's folder and compile:
+    ```bash
      cd Q1_InventorySystem
      javac *.java
      java Main
+    
      cd ../Q2_CaptainManagement
      javac *.java
      java Main
