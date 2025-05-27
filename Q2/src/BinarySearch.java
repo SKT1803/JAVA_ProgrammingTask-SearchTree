@@ -1,6 +1,6 @@
 //-----------------------------------------------------
 // Title: CaptainDatabase class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description: This class creates a binary search tree that name is CaptainDatabase(BinarySearch).
 // It has methods which are addCaptain (adds the captain in the tree(database)), 
 // searchCaptain (search the captain in the tree), deleteCaptain (deletes the captain from the tree),  
