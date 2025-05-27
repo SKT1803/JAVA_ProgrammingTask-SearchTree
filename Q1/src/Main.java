@@ -1,7 +1,7 @@
 
 //-----------------------------------------------------
 // Title: Main class
-// Author: Serdar Kemal Topkaya
+// Author: SKT
 // Description:  This class takes inputs from user as text files and 
 // using the String values in the text file, operates the code in three situations
 // which are add product, isAvailable and Quit.
