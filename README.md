@@ -16,6 +16,7 @@ No external libraries or `.jar` files were used — everything is built from scr
 
 ##  Project Structure
 
+<pre>
 BST-Solutions
 ├── Q1/ # Inventory Tracking System
 │ ├── bin/ # Compiled .class files
@@ -33,7 +34,7 @@ BST-Solutions
 │ ├── input_Q1.txt # Duplicate or shared sample inputs
 │ └── input_Q2.txt
 └── README.md
-
+</pre>
 ---
 ## How to Run
 
