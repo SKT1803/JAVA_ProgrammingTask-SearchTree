@@ -1,3 +1,57 @@
+# Inventory & Management Systems Using Binary Search Trees (JAVA)
+
+This repository contains solutions to two data-structure-focused problems, implemented in **Java** using custom **Binary Search Trees**.  
+No external libraries or `.jar` files were used — everything is built from scratch as per the assignment requirements.
+
+---
+
+## 💻 Technologies & Concepts
+
+- Java (no external libraries)
+- Custom Binary Search Tree implementation
+- Object-Oriented Design
+- Console-based interaction (sample input/output)
+
+---
+
+##  Project Structure
+
+BST-Solutions
+├── Q1/ # Inventory Tracking System
+│ ├── bin/ # Compiled .class files
+│ ├── src/ # Java source code
+│ ├── input_Q1.txt # Sample input data
+│ ├── .classpath
+│ └── .project
+├── Q2/ # Chauffeur Management System
+│ ├── bin/
+│ ├── src/
+│ ├── input_Q2.txt
+│ ├── .classpath
+│ └── .project
+├── inputs/
+│ ├── input_Q1.txt # Duplicate or shared sample inputs
+│ └── input_Q2.txt
+└── README.md
+
+---
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SKT1803/java-bst-projects.git
+     cd java-bst-projects
+   Navigate to each question's folder and compile:
+     cd Q1_InventorySystem
+     javac *.java
+     java Main
+   
+     cd ../Q2_CaptainManagement
+     javac *.java
+     java Main
+   ```
+---
+
 <h2>Q1:</h2>
 In this task, you are expected to implement a simple Inventory Tracking System <b>using one of
 the search trees.</b> You must use your own implementation of tree data structure by taking
@@ -241,5 +295,4 @@ Delete Captain: Couldn't find any captain with ID number 814
                        Rating star: 0
 Thank you for using CDRC, Good Bye!
 </pre>
-
 
